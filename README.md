@@ -4,7 +4,7 @@ This project explores and analyzes global COVID-19 data using Microsoft SQL Serv
 
 ---
 
-## 📊 Datasets Used
+## Datasets Used
 
 - `CovidDeaths`
 - `CovidVaccinations`
@@ -13,7 +13,7 @@ These datasets include country-level information on daily COVID-19 cases, deaths
 
 ---
 
-## 🛠 Skills Demonstrated
+## Skills Demonstrated
 
 - SQL Joins
 - Aggregations with `SUM`, `MAX`, `COUNT`
@@ -26,7 +26,7 @@ These datasets include country-level information on daily COVID-19 cases, deaths
 
 ---
 
-## 🔍 Key Analyses Performed
+## Key Analyses Performed
 
 ### Basic Exploration
 - Selected starting data from the `CovidDeaths` table
@@ -55,13 +55,13 @@ These datasets include country-level information on daily COVID-19 cases, deaths
 
 ---
 
-## 🧪 Techniques Used
+## Techniques Used
 
-### ✅ Common Table Expression (CTE)
+### Common Table Expression (CTE)
 Used a CTE named `PopvsVac` to simplify and reuse vaccination-related calculations.
 
-### ✅ Temporary Table
+### Temporary Table
 Created a temporary table `#PercentPopulationVaccinated` to store rolling vaccination data and compute percentages.
 
-### ✅ SQL View
+### SQL View
 Created a view `PercentPopulationVaccinated` for easy access to cleaned and prepared data for future visualizations.
