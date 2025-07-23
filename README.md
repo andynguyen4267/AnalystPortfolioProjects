@@ -55,6 +55,12 @@ These datasets include country-level information on daily COVID-19 cases, deaths
 
 ---
 
+## Tableau Dashboard
+
+[**View Interactive Dashboard on Tableau Public**](https://public.tableau.com/app/profile/andy.nguyen4739/viz/CovidDashboardProject_17520765885390/Dashboard1)  
+
+---
+
 ## Techniques Used
 
 ### Common Table Expression (CTE)
